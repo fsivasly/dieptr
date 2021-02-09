@@ -1,7 +1,7 @@
 {
   "gameMode": "ffa",
   "gameSpeed": 1,
-  "maxPlayer": 50,
+  "maxPlayer": 0,
   "maxShape": 100,
   "chatting": true,
   "getExp": 1,
