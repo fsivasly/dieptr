@@ -1,9 +1,9 @@
 {
-  "gameMode": "ffa",
+  "gameMode": "maze",
   "gameSpeed": 1,
   "maxPlayer": 50,
   "maxShape": 100,
-  "chatting": false,
+  "chatting": true,
   "getExp": 1,
   "mapSize": {
     "x": 500,
