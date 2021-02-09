@@ -1,0 +1,12 @@
+{
+  "gameMode": "sandbox",
+  "gameSpeed": 1,
+  "maxPlayer": 50,
+  "maxShape": 100,
+  "chatting": false,
+  "getExp": 1,
+  "mapSize": {
+    "x": 500,
+    "y": 500
+  }
+}
