@@ -1,5 +1,5 @@
 {
-  "gameMode": "maze",
+  "gameMode": "Sandbox",
   "gameSpeed": 1,
   "maxPlayer": 50,
   "maxShape": 100,
