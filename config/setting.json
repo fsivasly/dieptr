@@ -1,5 +1,5 @@
 {
-  "gameMode": "Sandbox",
+  "gameMode": "sandbox",
   "gameSpeed": 1,
   "maxPlayer": 50,
   "maxShape": 100,
